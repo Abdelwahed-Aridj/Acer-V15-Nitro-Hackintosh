@@ -3,7 +3,7 @@
 
 If you like my work, give it a ⭐
 
-[![Preview](sample.png)]()
+[![Preview](sample.png)](https://github.com/Abdelwahed-Aridj/Acer-V15-Nitro-Hackintosh)
 
 # macOS Big Sur : version 11.7.6
 
