@@ -9,7 +9,7 @@ If you like my work, give it a ⭐
 
 The project was made with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
-`Opencore Version : 0.8.8` 
+`Opencore Version : 0.8.4` 
 
 ## Contents
 
