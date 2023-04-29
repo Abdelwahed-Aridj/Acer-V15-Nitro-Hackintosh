@@ -3,7 +3,7 @@
 
 If you like my work, give it a ⭐
 
-[![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
+[![Preview](sample.png)]()
 
 # macOS Big Sur : version 11.7.6
 
