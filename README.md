@@ -38,7 +38,6 @@ The project was made with the help of [Opencore - Dortania Guide](https://dortan
 - **Sleep Doesnt work yet**
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
 - **Sound** Works perfectly on Speaker and ComboJack for headset.
-- **HDMI** Won't work, since the port is hardwired to the dGpu (disabled).
 - **Everything else works** 
 
 ## DSDT-SSDT
